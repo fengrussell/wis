@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    Copyright (c) 2008-2015 浩瀚深度 All Rights Reserved.
+    Copyright (c) 2008-2015 All Rights Reserved.
 
     FileName: __init__.py.py
 
